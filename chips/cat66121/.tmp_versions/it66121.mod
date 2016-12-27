@@ -1,0 +1,2 @@
+/home/pillar/BeagleBone/hdmi/chips/cat66121/it66121.ko
+/home/pillar/BeagleBone/hdmi/chips/cat66121/cat66121_hdmi.o /home/pillar/BeagleBone/hdmi/chips/cat66121/cat66121_hdmi_hw.o /home/pillar/BeagleBone/hdmi/chips/cat66121/hdmitx_input.o /home/pillar/BeagleBone/hdmi/chips/cat66121/hdmitx_drv.o /home/pillar/BeagleBone/hdmi/chips/cat66121/csc.o /home/pillar/BeagleBone/hdmi/chips/cat66121/rk_hdmi_task.o /home/pillar/BeagleBone/hdmi/chips/cat66121/rk_hdmi_lcdc.o /home/pillar/BeagleBone/hdmi/chips/cat66121/hdmitx_hdcp.o /home/pillar/BeagleBone/hdmi/chips/cat66121/sha1.o
